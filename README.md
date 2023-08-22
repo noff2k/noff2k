@@ -1,6 +1,7 @@
 ## about me
 ```
-student
+software developer
+reverse engineering begineer
 contact: realnof@proton.me / discord noff2k
 ```
 
