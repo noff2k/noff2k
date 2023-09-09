@@ -2,7 +2,6 @@
 ```
 software developer
 reverse engineering begineer
-contact: realnof@proton.me / discord noff2k
 ```
 
 ## projects
@@ -10,3 +9,5 @@ contact: realnof@proton.me / discord noff2k
 stealthbyte.cc - private internal FiveM project
 cocaine.lua - advanced anti-aim technology for neverlose.cc
 ```
+## contact
+![discord]([https://discord.c99.nl/widget/theme-1/1074728928662532196.png](https://discord.c99.nl/widget/theme-2/746776087832297593.png))
