@@ -7,6 +7,5 @@
 	<h3>Socials</h3>
 	<ul>
 		<li>Email <a href="mailto:realnof@proton.me">realnof@proton.me</a></li>
-    		![discord](https://discord.c99.nl/widget/theme-2/746776087832297593.png)
 	</ul>
 </p>
