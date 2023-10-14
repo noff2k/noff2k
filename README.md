@@ -1,10 +1,4 @@
 <p>
-	<h3>Socials</h3>
-	<ul>
-		<li>Discord @noff2k</li>
-	</ul>
-</p>
-<p>
 	<h3>💵 Want to buy me a Coffee?</h3>
 	<ul>
 		<li>BTC - <code>bc1q7c9jcvkpmz4zr2uk2qr0ftmx42rq2xg7w6398r</code></li>
